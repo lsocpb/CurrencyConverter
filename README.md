@@ -31,7 +31,7 @@ Upon running the program, the user will be prompted to enter the amount they wan
 
 ## Author
 
-@lsocpb
+[@lsocpb](https://github.com/lsocpb)
 
 ## License
 
